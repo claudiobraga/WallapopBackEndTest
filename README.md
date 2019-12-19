@@ -46,9 +46,3 @@ We will take into account the evolution of your solution, from the initial code 
 We will evaluate how complex and difficult is to evolve your solution
 How to do it
 This project is a Template Project that allows you to create a new project of your own based on this one
-
-We would like you to maintain this new repository as private giving access to wallabackend to be able to evaluate it once you are done with your solution
-
-Please, let us know as soon as you finish, otherwise we will not start the review
-
-Thanks & good luck!!
